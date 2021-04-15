@@ -1,2 +1,2 @@
 # Robotyka
-robotyka
+W tym repozytorium są pliki z robotyki
